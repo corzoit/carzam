@@ -1,0 +1,65 @@
+[
+	{
+		"make": "Dodge",
+		"model": "Milenium",
+		"badge": "DOG",
+		"variant": "midog",
+		"colour": "grey"
+	},
+	{
+		"make": "Ford",
+		"model": "Mercurio",
+		"badge": "FOR",
+		"variant": "merfor",
+		"colour": "red"
+	},
+	{
+		"make": "Ford",
+		"model": "Mercurio",
+		"badge": "FORA",
+		"variant": "merfor",
+		"colour": "red"
+	},
+	{
+		"make": "Ford",
+		"model": "Mercurio",
+		"badge": "FORB",
+		"variant": "merfor",
+		"colour": "red"
+	},
+	{
+		"make": "Kia",
+		"model": "Rio",
+		"badge": "KIAC",
+		"variant": "riokia",
+		"colour": "black"
+	},
+	{
+		"make": "Nissan",
+		"model": "Centra",
+		"badge": "NIS",
+		"variant": "cennis",
+		"colour": "silver"
+	},
+	{
+		"make": "Kia",
+		"model": "Sportage",
+		"badge": "KIA",
+		"variant": "apokia",
+		"colour": "green"
+	},
+	{
+		"make": "Hyundai",
+		"model": "Elantra",
+		"badge": "HYU",
+		"variant": "elahyu",
+		"colour": "blue"
+	},
+	{
+		"make": "Mazda",
+		"model": "CX-9",
+		"badge": "MAZ",
+		"variant": "cx9maz",
+		"colour": "white"
+	}
+]
